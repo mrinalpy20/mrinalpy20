@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrinalpy20
-- 👀 I’m interested in ...python and data science
-- 🌱 I’m currently learning ...python ,data science
+- 👀 I’m interested in ...Web dev and data science
+- 🌱 I’m currently learning ...MERN and Django
 - 💞️ I’m looking to collaborate on ...coding projects
 - 📫 How to reach me ...mithukalita20@gmail.com, mrinalk1421@gmail.com 
 
